@@ -1,5 +1,5 @@
 # W17 M07 | State Management and Immutable Update Patterns
-[Github Repository]() | [Vimeo Video Recording]()
+[Github Repository](https://github.com/Alfredo08/Cohort-November-13-2023/tree/main/W17M07%20-%20State%20Management%20and%20Immutable%20Update%20Patterns) | [Vimeo Video Recording](https://vimeo.com/926001335/94cce22aa6?share=copy)
 
 ## Topics to cover
 
